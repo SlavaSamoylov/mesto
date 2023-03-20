@@ -8,14 +8,8 @@
     max-width: 880px;
   }
   
-  @media screen and (max-width: 991px) {
+  @media screen and (max-width: 768px) {
     .elements {
-      max-width: 581px;
+      min-width: 282px;
     }
-  }
-  
-  @media screen and (max-width: 619px) {
-    .elements {
-      max-width: 282px;
-    }
-  } 
+  }  
