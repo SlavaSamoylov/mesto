@@ -1,10 +1,10 @@
 .element__container-title {
-    color: #000000;
-    margin: 0;
-    font-weight: 900;
-    font-size: 24px;
-    line-height: 29.05px;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    white-space: nowrap;
-  } 
+  color: #000000;
+  margin: 0;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 29.05px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+} 
