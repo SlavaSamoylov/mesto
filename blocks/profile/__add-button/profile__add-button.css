@@ -7,7 +7,7 @@
     border-radius: 2px;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url('../../../images/add-button.png');
+    background-image: url('../../../images/add-button.svg');
   }
   
   .profile__add-button:hover {

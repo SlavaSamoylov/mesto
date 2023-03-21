@@ -1,4 +1,5 @@
 .profile__info {
+    display: grid;
     width: 336px;
     height: 73px;
     margin: auto auto auto 30px;

@@ -1,10 +1,10 @@
 .element__container-like {
-    width: 22px;
+    min-width: 22px;
     height: 19px;
     background-size: contain;
     padding: 0;
     border: none;
-    background-image: url('../../../../Images/heart.png');
+    background-image: url('../../../Images/like.svg');
     background-position: center;
     background-repeat: no-repeat;
     cursor: pointer;
