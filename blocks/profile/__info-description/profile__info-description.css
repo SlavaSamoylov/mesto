@@ -7,7 +7,6 @@
     white-space: nowrap;
     max-width: 336px;
     margin-top: 16px;
-    max-width: 282px;
   }
   
   
@@ -16,6 +15,7 @@
       font-size: 14px;
       line-height: 16.94px;
       margin: 14px auto 0;
+      max-width: 282px;
     }
   }
   
