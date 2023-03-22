@@ -8,13 +8,13 @@ let nameInput = document.getElementById ('popup__form-input_name');
 let jobInput = document.getElementById ('popup__form-input_job');
 
 function showPopup() {
-    popupElement.classList.add('popup__opened');
+    popupElement.classList.add('popup_opened');
     nameInput.value = nameElement.textContent;
     jobInput.value = jobElement.textContent;
 }
 
 function closePopup() {
-    popupElement.classList.remove('popup__opened');
+    popupElement.classList.remove('popup_opened');
 }
 
 function handleFormSubmit(evt) {
